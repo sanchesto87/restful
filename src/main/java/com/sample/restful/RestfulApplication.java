@@ -8,7 +8,7 @@ public class RestfulApplication {
 
 	/**
 	 * 
-	 * @param args hi ~~ ss
+	 * @param args 
 	 */
 	
 	public static void main(String[] args) {
